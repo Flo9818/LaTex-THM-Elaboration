@@ -1,5 +1,6 @@
 # LaTex-THM-Elaboration
 A LaTex template for elaborations used by the THM
+
 Date: 23.6.2017
 
 Diese LaTeX Vorlage ist für generelle wissenschaftliche Hausarbeiten
