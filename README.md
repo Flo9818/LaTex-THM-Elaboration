@@ -1,5 +1,6 @@
 # LaTex-THM-Elaboration
 A LaTex template for elaborations used by the THM
+Date: 23.6.2017
 
 Diese LaTeX Vorlage ist für generelle wissenschaftliche Hausarbeiten
 
@@ -10,9 +11,6 @@ Hauptmerkmale sind:
 * Vollständig anpassbar
 * Glossar und Abkürzungsverzeichnis mit dem Paket `glossaries`
 * Literaturverzeichnis basierend auf einem angepassten `author-year` Stil
-* Literaturverzeichnis kann in Unterkapitel geteilt werden (z.B. Fachliteratur und Internet Quellen)
-* Deutsche und Englische Version verfügbar
-* Druck- und Digitalversion
 * …und vieles mehr!
 
 
